@@ -1,5 +1,4 @@
 # fStikBot
-[![time tracker](https://wakatime.com/badge/github/LyoSU/fStikBot.svg)](https://wakatime.com/badge/github/LyoSU/fStikBot)
 
 
 # Docker installation
